@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+
+.navbar a:hover{
+    color: aqua  ;
+}
+
+
+
+.move{
+   position: relative;
+   right: 9px;
+}
+.box{
+    border: 1px solid black;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2), 0 6px 20px rgba(0,0,0,0.19);
+    border-radius: 10px;
+}
+.colorr{
+    color: red;
+}
