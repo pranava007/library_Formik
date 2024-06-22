@@ -1,8 +1,5 @@
-# React + Vite
+This is a  library management system
+using curd operation 
+Formik use this project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Building a library management system using CRUD operations and integrating Formik for form management sounds like an interesting project! If you have any specific questions or need assistance with any part of the project, feel free to ask!
